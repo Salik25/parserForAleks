@@ -1,0 +1,7 @@
+numpy~=1.22.3
+requests~=2.27.1
+XlsxWriter~=3.0.3
+beautifulsoup4~=4.11.1
+pandas~=1.4.2
+openpyxl~=3.0.9
+lxml~=4.8.0
